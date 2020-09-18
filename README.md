@@ -5,7 +5,7 @@
       <b>I'm a passionate data scientist who wants to be a pioneer at what he is doing.</b>
       <ul>
         <li> I am originally from Colombia living in Miami, Florida</li>
-        <li>I’m currently learning data science and machine learning using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
+        <li>I’m currently learning data science and machine learning using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning
 
 </li>
         <li>I’m looking to collaborate on Open-source Projects</li>
